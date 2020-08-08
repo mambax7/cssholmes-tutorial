@@ -1,12 +1,12 @@
 ### _XOOPS Documentation Series_
-![](en/assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module cssHolmes
 #### for XOOPS 2.5.10+
 
 #### for PHP 7.2+
       
-![](en/assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
@@ -14,9 +14,9 @@
 
 ## Module Purpose 
 
-This module is a "CSS Markup Detective", a stand-alone diagnostic CSS stylesheet that can highlight potentially invalid, inaccessible or erroneous HTML(5) markup by adding one class.
+This module is a simple Guestbook for your visitors
 
-![](en/assets/image001.png)
+![](assets/image001.png)
 *Figure 1: Main view of the cssHolmes Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
@@ -31,16 +31,16 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Miscellaneous](book/8other.md) 
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ## License:
 
