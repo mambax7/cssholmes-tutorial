@@ -14,7 +14,7 @@
 
 ## Module Purpose 
 
-This module is a simple Guestbook for your visitors
+This module is a "CSS Markup Detective", a stand-alone diagnostic CSS stylesheet that can highlight potentially invalid, inaccessible or erroneous HTML(5) markup by adding one class.
 
 ![](assets/image001.png)
 *Figure 1: Main view of the cssHolmes Module (Admin side)*
